@@ -1,0 +1,2 @@
+# gemini_jimaku
+GeminiとWhisperを使用したYouTube字幕生成ツール
